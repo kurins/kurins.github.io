@@ -448,3 +448,9 @@ footer .footer-below {
     display: none;
     opacity: 0;
 }
+
+/* Custom CSS */
+.portfolio-outlined {
+  outline: 1px solid blue;
+  background: transparent;
+}
